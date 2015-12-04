@@ -17,4 +17,4 @@ Para usá-la, basta ir ao terminal e executar:
 $ mpd resources/presentation.md
 ```
 
-Para dúvidas, abra uma issue no (github do projeto)[https://github.com/duodraco/phpconf-streams/issues].
+Para dúvidas, abra uma issue no [github do projeto](https://github.com/duodraco/phpconf-streams/issues).
